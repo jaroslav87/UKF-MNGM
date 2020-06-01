@@ -2,7 +2,7 @@ import numpy as np
 
 
 class MNGM2:
-    # class used for generation of univariate nonstationary growth model
+    # class used for generation of multivariate nonstationary growth model
     def __init__(self, n, x_0):
 
         self.n = n
